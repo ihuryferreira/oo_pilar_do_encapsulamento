@@ -1,0 +1,1 @@
+# oo_pilar_do_encapsulamento
